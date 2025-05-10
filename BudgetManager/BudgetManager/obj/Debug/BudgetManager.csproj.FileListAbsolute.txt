@@ -1,0 +1,10 @@
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.csproj.AssemblyReference.cache
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.BudgetForm.resources
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.Properties.Resources.resources
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.csproj.GenerateResource.cache
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.csproj.CoreCompileInputs.cache
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\bin\Debug\BudgetManager.exe.config
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\bin\Debug\BudgetManager.exe
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\bin\Debug\BudgetManager.pdb
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.exe
+C:\Users\Элина\Desktop\Тестирование\ЛБ1(Новая)\BudgetManager\BudgetManager\BudgetManager\obj\Debug\BudgetManager.pdb
