@@ -7,8 +7,8 @@ namespace BudgetManager
 {
     public enum TransactionType
     {
-        Income,
-        Expense
+        Доход,
+        Расход
     }
 
     public class Transaction
@@ -33,10 +33,7 @@ namespace BudgetManager
 
         public decimal TotalBudget
         {
-            get
-            {
-                return Transactions.Sum(t => t.Type == TransactionType.Income ? t.Amount : -t.Amount);
-            }
+            get { return Transactions.Sum(t => t.Type == TransactionType.Доход ? t.Amount : -t.Amount); }
         }
 
         public BudgetManager()
