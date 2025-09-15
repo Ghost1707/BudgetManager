@@ -8,7 +8,7 @@ namespace BudgetManager
     public enum TransactionType
     {
         Доход,
-        Расход
+        Расход //Second test commentary
     }
 
     public class Transaction
