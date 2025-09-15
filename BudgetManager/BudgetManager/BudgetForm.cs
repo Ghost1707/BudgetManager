@@ -22,7 +22,7 @@ namespace BudgetManager
             InitializeComponent();
             this.Text = "Управление бюджетом";
             this.Width = 600;
-            this.Height = 500;
+            this.Height = 500; //Added commentary for testing
 
             descriptionTextBox = new TextBox { Location = new System.Drawing.Point(10, 10), Width = 150, Text = "Описание" };
             amountTextBox = new TextBox { Location = new System.Drawing.Point(170, 10), Width = 100, Text = "Сумма" };
